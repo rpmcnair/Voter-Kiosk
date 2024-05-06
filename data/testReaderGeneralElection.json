@@ -1,0 +1,18 @@
+{
+  "candidatesList": [
+    {
+      "name": "Bill",
+      "partyAffiliation": "Liberal",
+      "position" : "Mayor",
+      "platform" : ["HealthCare"],
+      "status" : false
+    },
+    {
+      "name": "Jake",
+      "partyAffiliation": "NDP",
+      "position" : "Council",
+      "platform" : ["Recreation"],
+      "status" : false
+    }
+  ]
+}

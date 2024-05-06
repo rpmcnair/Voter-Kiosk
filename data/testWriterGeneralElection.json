@@ -1,0 +1,16 @@
+{"candidatesList": [
+    {
+        "partyAffiliation": "Liberal",
+        "name": "Alice",
+        "position": "Mayor",
+        "platform": [],
+        "status": false
+    },
+    {
+        "partyAffiliation": "NDP",
+        "name": "Bob",
+        "position": "Council",
+        "platform": [],
+        "status": false
+    }
+]}

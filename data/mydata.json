@@ -1,0 +1,30 @@
+{"candidatesList": [
+    {
+        "partyAffiliation": "Conservative",
+        "name": "Jake Bradbeer",
+        "position": "United States President",
+        "platform": [],
+        "status": false
+    },
+    {
+        "partyAffiliation": "ABC",
+        "name": "Riley McNair",
+        "position": "Mayor",
+        "platform": [],
+        "status": false
+    },
+    {
+        "partyAffiliation": "Pooper",
+        "name": "Hayley Knot",
+        "position": "Mayor",
+        "platform": [],
+        "status": false
+    },
+    {
+        "partyAffiliation": "The Kingdom",
+        "name": "Sir Jasper Deasey",
+        "position": "King",
+        "platform": [],
+        "status": false
+    }
+]}
